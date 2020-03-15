@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">SistemaPrueba</string>
+    <string name="etId">Id</string>
+    <string name="etDescripcion">Descripción</string>
+    <string name="etPrecio">Precio</string>
+    <string name="btnRegistrar">Registrar</string>
 </resources>
